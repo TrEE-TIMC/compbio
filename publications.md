@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: All about us
+subtitle: More about us…
 ---
 
 ## Peer-Reviewed Journal Publications
