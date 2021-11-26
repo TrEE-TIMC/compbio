@@ -17,6 +17,10 @@ complexes, and genome dynamics with respect to environmental adaptations. When
 needed, she designs new computational methods in the field of comparative
 genomics and phylogenomics. 
 
+<li><a href="https://github.com/safia"><i class="fa fa-fw fa-github fa-2x" aria-hidden="true"></i> GitHub</a></li>
+
+
+
 
 [Nelle Varoquaux](https://nellev.github.io) is a machine.
 
