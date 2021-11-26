@@ -219,6 +219,13 @@ paginate: 5
 kramdown:
   input: GFM
 
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
@@ -234,6 +241,15 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Exclude these files from production site
 exclude:
@@ -252,4 +268,5 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
 
