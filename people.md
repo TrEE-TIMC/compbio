@@ -24,7 +24,7 @@ genomics and phylogenomics.
 
 
 **[Nelle Varoquaux](https://nellev.github.io)** is a machine.  
-<a href="https://nellev.github.io/"><i class="fa fa-fw fa-chain fa-2x" aria-hidden="true"></i></a>
+<a href="https://nellev.github.io/"><i class="fa fa-fw fa-map-marker fa-2x" aria-hidden="true"></i></a>
 <a href="https://github.com/nellev"><i class="fa fa-fw fa-github fa-2x" aria-hidden="true"></i></a>
 <a href="https://scholar.google.fr/citations?user=8QspsP0AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-fw fa-2x"></i></a>
 <a href="https://orcid.org/0000-0002-8748-6546"><i class="ai ai-orcid ai-fw fa-2x"></i></a>
