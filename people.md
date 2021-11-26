@@ -17,7 +17,7 @@ complexes, and genome dynamics with respect to environmental adaptations. When
 needed, she designs new computational methods in the field of comparative
 genomics and phylogenomics. 
 
-<a href="https://github.com/safia"><i class="fa fa-fw fa-github fa-2x" aria-hidden="true"></i> GitHub</a>
+<a href="https://github.com/saphia"><i class="fa fa-fw fa-github fa-2x" aria-hidden="true"></i> GitHub</a>
 <a href="https://scholar.google.fr/citations?user=pJ3h0iMAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-fw fa-2x"></i></a> 
 
 
