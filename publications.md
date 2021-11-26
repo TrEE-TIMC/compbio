@@ -16,7 +16,3 @@ ai-osf"></i>)</nobr> for each publication are linked below the citation.
 {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}
-
-**Abby, S.**, Cury, J.  and Guglielmini, Julien  and Néron, B.  and Touchon,
-M. and Rocha, E. P. (2016) Identification of protein secretion systems in
-bacterial genomes.
