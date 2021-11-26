@@ -5,5 +5,9 @@ subtitle: All about us
 ---
 
 
-- Identification of protein secretion systems in bacterial genomes, S. Abby et
-  al
+Paxton, A., **Varoquaux, N.**, Holdgraf, C., & Geiger, R. S. (under revision).
+Securing the next generation of open-source contributors: How language and
+community dynamics influence newcomer retention in open-source software
+communities.
+
+
