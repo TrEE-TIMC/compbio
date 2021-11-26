@@ -42,11 +42,11 @@ genomics and phylogenomics.
 
 ## Alumni
 
-- Flora Gaudillière (2021, M2 intern)
-- Renato Augusto Antoniassi Battistin (2021, M1 intern)
-- Vu-Lam Dang (2021, M2 intern)
-- William Schmitt (2021, PhD student)
-- Qiqi He (2020, M2 intern)
-- Safa Berraies (2019, M2 intern)
-- Clothilde Chenal (2018, M1 intern)
-- Morgane Roger-Margueritat (2018, L2 intern)
+Flora Gaudillière (2021, intern)  
+Renato Augusto Antoniassi Battistin (2021, intern)  
+Vu-Lam Dang (2021, intern)  
+William Schmitt (2021, PhD student)  
+Qiqi He (2020, intern)  
+Safa Berraies (2019, intern)  
+Clothilde Chenal (2018, intern)  
+Morgane Roger-Margueritat (2018, intern)  
