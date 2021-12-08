@@ -11,4 +11,8 @@ internships, PhD thesis and postdoc fellowships.
 
 ## Position offers
 
-We currently don't have any positions to offer.
+[Postdoc in Evolutionary
+  biochemestry](files/postdoc_evolutionary_biochemistry.pdf)
+  to investigate phylogenomics  approaches  and dimensionality  reduction
+  methods  to  tackle  the  problem  of  the  emergence  and  evolution  of
+  enzyme functions. 
