@@ -11,8 +11,8 @@ internships, PhD thesis and postdoc fellowships.
 
 ## Position offers
 
-[Postdoc in Evolutionary
-  biochemistry](../files/postdoc_evolutionary_biochemistry.pdf)
-  to investigate phylogenomics  approaches  and dimensionality  reduction
-  methods  to  tackle  the  problem  of  the  emergence  and  evolution  of
-  enzyme functions. 
+**[Postdoc in Evolutionary
+  biochemistry](../files/postdoc_evolutionary_biochemistry.pdf)** to
+investigate phylogenomics  approaches  and dimensionality  reduction methods
+to  tackle  the  problem  of  the  emergence  and  evolution  of enzyme
+functions. 
