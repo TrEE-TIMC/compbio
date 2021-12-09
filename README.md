@@ -3,11 +3,12 @@
 * Log into your github account and make sure the computer you are on has been listed through a ssh key
 * Clone the repo:
 
-git clone git@github.com:TrEE-TIMC/tree-timc.github.io.git
+`git clone git@github.com:TrEE-TIMC/tree-timc.github.io.git`
 
 
 Now the fun can start!
-NB: if you want to avoid to enter your SSH passphrase upon each action, you can used « ssh-add » once and for all on your computer
+
+NB: if you want to avoid to enter your SSH passphrase upon each action, you can used `ssh-add` once and for all on your computer.
 
 
 So then the process is:
