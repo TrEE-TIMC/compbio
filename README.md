@@ -20,6 +20,24 @@ So then the process is:
 
 To be noted:
 * Index page is HTML
-* The rest are markdown pages
-* Stored files are in the *files* folder
-* Publications are automatically listed from the _publications folder via the publications.md file.
+* The rest are markdown pages. See [here for a cheat sheet.](https://www.markdownguide.org/cheat-sheet/)
+* Stored files are in the **files** folder
+* Publications are automatically listed from the **_publications** folder via the publications.md file.
+
+
+## Adding publications
+
+The template is the following:
+
+
+	---
+	title: "Identification of protein secretion systems in bacterial genomes"
+	collection: publications
+	permalink: /publication/2016-abby_curry
+	venue: Scientific Reports
+	citation: '<b>Abby, S.</b>, Cury, J., Guglielmini, J., Néron, B., Touchon, M., and
+	Rocha, E. (2016). Identification of protein secretion systems in bacterial
+	genomes. <i> Scientific Reports</i>, 6, 23080 . https://doi.org/10.1038/srep23080'
+	oa_paperurl: https://www.nature.com/articles/srep23080
+	githuburl: 'https://github.com/gem-pasteur/macsyfinder'
+	---
