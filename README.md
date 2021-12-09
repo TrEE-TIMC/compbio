@@ -6,18 +6,18 @@
 git clone git@github.com:TrEE-TIMC/tree-timc.github.io.git
 
 
-* Now the fun can start!
-* NB: if you want to avoid to enter your SSH passphrase upon each action, you can used « ssh-add » once and for all on your computer
+Now the fun can start!
+NB: if you want to avoid to enter your SSH passphrase upon each action, you can used « ssh-add » once and for all on your computer
 
 
+So then the process is:
 - make changes to the site
 - push
-- take a coffeeâ€¦
+- take a coffee!
 - look at the webpage!
 
 
-note::
-
+To be noted:
 * Index page is HTML
 * The rest are markdown pages
 * Publications are automatically listed from the _publications folder via the publications.md file.
