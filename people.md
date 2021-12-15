@@ -18,7 +18,7 @@ computational sciences. She is an evolutionary biologist, particularly
 interested in the mechanisms of diversification of prokaryotes (archaea and
 bacteria). She studies these at different scales: from enzymes, to macromolecular
 complexes, and genome dynamics with respect to environmental adaptations. She also develops 
-methods in the field of comparative genomics and phylogenomics, in particular for genome annotation. 
+methods in the field of comparative genomics and phylogenomics, in particular for genome annotation.  
 <a href="https://github.com/saphia"><i class="fa fa-fw fa-github fa-2x" aria-hidden="true"></i></a>
 <a href="https://scholar.google.fr/citations?user=pJ3h0iMAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-fw fa-2x"></i></a> 
 
