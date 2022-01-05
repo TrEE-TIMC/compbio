@@ -40,6 +40,13 @@ methods in the field of comparative genomics and phylogenomics, in particular fo
 
 **Elham Ghobadpour**
 
+
+
+## Interns
+
+**Morgane Roger-Margueritat**  (M2 intern, supervised by Fabien Pierrel and Sophie Abby)
+
+
 ## Alumni
 
 Flora Gaudillière (2021, intern)  
