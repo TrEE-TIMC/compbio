@@ -1101,3 +1101,12 @@ pre {
     display: inline-block;
   }
 }
+
+article a {
+    color: "#000000";
+}
+
+article a:hover {
+    color: #52adc8;
+    text-decoration: none;
+}
