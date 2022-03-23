@@ -37,9 +37,10 @@ The template is the following:
 	venue: Scientific Reports
 	citation: '<b>Abby, S.</b>, Cury, J., Guglielmini, J., Néron, B., Touchon, M., and
 	Rocha, E. (2016). Identification of protein secretion systems in bacterial
-	genomes. <i> Scientific Reports</i>, 6, 23080 . https://doi.org/10.1038/srep23080'
+	genomes. <i> Scientific Reports</i>,'
 	oa_paperurl: https://www.nature.com/articles/srep23080
 	githuburl: 'https://github.com/gem-pasteur/macsyfinder'
+	year: 2016
 	---
 
 If you are lazy and would like to create these automatically, please follow
