@@ -41,3 +41,6 @@ The template is the following:
 	oa_paperurl: https://www.nature.com/articles/srep23080
 	githuburl: 'https://github.com/gem-pasteur/macsyfinder'
 	---
+
+If you are lazy and would like to create these automatically, please follow
+instructions from [scripts/README](https://github.com/TrEE-TIMC/compbio/blob/gh-pages/scripts/README)
