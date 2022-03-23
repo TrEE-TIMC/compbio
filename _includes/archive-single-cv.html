@@ -28,13 +28,16 @@
     <!-- Create citation -->
     <p class="archive__item-excerpt" itemprop="description">
     <!-- Deliver citation -->
-    {{ post.citation }}
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}">
+      {{ post.citation }}
+      </a>
+    {% else %}
+      {{ post.citation }}
+    {% endif %}
     <br>
 
     <!-- Add links to additional information -->
-    {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" rel="permalink"><i class="fa fa-file-pdf-o fa-2x" aria-hidden="true"></i></a>
-    {% endif %}
     {% if post.oa_paperurl %}
       <a href="{{ post.oa_paperurl }}" rel="permalink"><i class="ai ai-open-access-square ai-2x"></i></a>
     {% endif %}

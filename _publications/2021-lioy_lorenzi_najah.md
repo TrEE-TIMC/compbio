@@ -9,4 +9,5 @@ Boccard, F., Pernodet, J.-L., Bury-Moné, S. Dynamics of the
 compartmentalized Streptomyces chromosome during metabolic differentiation.
 <i>Nat Commun</i> 12, 5221 (2021). https://doi.org/10.1038/s41467-021-25462-1'
 oa_paperurl: 'https://doi.org/10.1038/s41467-021-25462-1'
+year: 2021
 ---

@@ -1103,7 +1103,7 @@ pre {
 }
 
 article a {
-    color: #000000;
+    color: #404040;
 }
 
 article a:hover {
@@ -1112,13 +1112,14 @@ article a:hover {
 }
 
 .pub-date {
-  color: #777;
+  color: #FFF;
   font-size: 13px;
+  font-weight: bold;
   float: left;
   width: 45px;
   height: 45px;
-  background: #FFF;
-  border: 1px solid #AAA;
+  background: #404040;
+  border: 1px solid #404040;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -1134,7 +1135,7 @@ article a:hover {
   height: 20px;
   width: 1px;
   top: -20px;
-  border-left: 1px solid #AAA;
+  border-left: 1px solid #404040;
   z-index: 0;
 }
 
@@ -1145,7 +1146,7 @@ article a:hover {
   height: 150px;
   width: 1px;
   bottom: -150px;
-  border-left: 1px solid #AAA;
+  border-left: 1px solid #404040;
   z-index: 0;
 }
 

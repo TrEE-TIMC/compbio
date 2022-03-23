@@ -85,25 +85,14 @@ def format_citation(citation, max_authors=4):
     except KeyError:
         year = ""
 
-    if url:
-        formatted_citation = (
-            "<a href=\"{url}\">{authors}. <b>{title}</b>, <i>{journal}</i>"
-            " {month}{year}</a>").format(
-                url=url,
-                authors=authors,
-                title=title,
-                journal=journal,
-                month=month,
-                year=year)
-    else:
-        formatted_citation = (
-            "{authors}. <b>{title}</b>, <i>{journal}</i>"
-            " {month}{year}").format(
-                authors=authors,
-                title=title,
-                journal=journal,
-                month=month,
-                year=year)
+    formatted_citation = (
+        "{authors}. <b>{title}</b>, <i>{journal}</i>"
+        " {month}{year}").format(
+            authors=authors,
+            title=title,
+            journal=journal,
+            month=month,
+            year=year)
     return formatted_citation
 
 
@@ -123,6 +112,13 @@ for citation in bib_database.entries:
     except KeyError:
         note = ""
 
+    try:
+        url = "paperurl: '" + citation["url"] + "'\n"
+    except KeyError:
+        url = ""
+
+
+
     # create the filename
     filename = create_filename(citation).lower() 
     formatted_citation = format_citation(citation)
@@ -134,7 +130,7 @@ for citation in bib_database.entries:
     md = md + "venue: ''\n"
     md = md + "citation: '" + formatted_citation + "'\n"
     md = md + "year: '" + citation["year"] + "'\n"
-    md = md + note
+    md = md + note + url
     md = md + "---\n"
 
     with open(os.path.join(output_dir, filename), "w") as f:

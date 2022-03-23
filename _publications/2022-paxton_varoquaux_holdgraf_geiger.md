@@ -7,4 +7,5 @@ citation: 'Paxton, A., <b>Varoquaux, N.</b>, Holdgraf, C., & Geiger, R. S.
 (under revision). Securing the next generation of open-source contributors: How
 language and community dynamics influence newcomer retention in open-source
 software communities.'
+year: 2022
 ---
