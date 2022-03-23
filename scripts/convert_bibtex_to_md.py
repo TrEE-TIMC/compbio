@@ -133,6 +133,7 @@ for citation in bib_database.entries:
     md = md + "permalink: /publication/" + filename.split(".md")[0].lower() + "\n"
     md = md + "venue: ''\n"
     md = md + "citation: '" + formatted_citation + "'\n"
+    md = md + "year: '" + citation["year"] + "'\n"
     md = md + note
     md = md + "---\n"
 

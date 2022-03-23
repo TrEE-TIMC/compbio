@@ -19,35 +19,14 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item" style="margin-left: 40px;">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
-    <!-- Add teaser, if we have it -->
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
+  <div class="pub-date">
+    {{ post.year }}
+  </div>
+  <div class="pub-content">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"> 
 
     <!-- Create citation -->
     <p class="archive__item-excerpt" itemprop="description">
-
-    <!-- Add symbol for publication collection -->
-    <!-- {% if collection == "publications" %}
-      <i class="fa fa-align-left"></i>
-    {% endif %}
-    {% if collection == "proceedings" %}
-      <i class="fa fa-child"></i>
-    {% endif %}
-    {% if collection == "chapter" %}
-      <i class="fa fa-bookmark"></i>
-    {% endif %} -->
-
     <!-- Deliver citation -->
     {{ post.citation }}
     <br>
@@ -70,4 +49,5 @@
     {% endif %}
     </p>
  </article>
+ </div>
 </div>
