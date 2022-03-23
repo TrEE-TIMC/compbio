@@ -15,8 +15,10 @@ python convert_bibtex_to_md.py filename.bib results/
 
 Because I (Nelle…) is very lazy, I've added in my bibtex files a `note` entry
 containing any additional information useful for the creation of the markdown
-file that isn't typically in a bibtex file. Specifically, a citation in bibtex
-format as follows:
+file that isn't typically in a bibtex file. In zotero, it consists in adding
+the information in the extra entry of each citation.
+
+A bibtex file of the format:
 
 ```
 @article{cauer_inferring_2019,
