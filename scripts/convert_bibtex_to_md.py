@@ -1,6 +1,8 @@
 import argparse
+import warnings
 import os
 import bibtexparser
+import unicodedata
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -9,14 +11,25 @@ parser.add_argument(
 parser.add_argument(
     "output_dir",
     help="Path to the output directory")
+parser.add_argument(
+    "--filter-author", "-f", default=None,
+    help="Filter for author, e.g., 'Junier, Ivan'")
 args = parser.parse_args()
 
 filename = args.filename
 output_dir = args.output_dir
+filter_author = args.filter_author
+
 
 with open(filename) as bibtex_file:
     bib_database = bibtexparser.bparser.BibTexParser(
         common_strings=True).parse_file(bibtex_file)
+
+
+def remove_accents(input_str):
+    nfkd_form = unicodedata.normalize('NFKD', input_str)
+    only_ascii = nfkd_form.encode('ASCII', 'ignore')
+    return only_ascii.decode()
 
 
 def get_authors(citation, format="only_last_name"):
@@ -36,6 +49,8 @@ def get_authors(citation, format="only_last_name"):
 
 def create_initials(author):
     # Start by splitting first names
+    if len(author) == 1:
+        return [author[0].replace("{", "").replace("}", ""), ""]
     first_names = author[1].split(" ")
     # Then initialize by dealing with hyphenated names
     initialized_first_name = []
@@ -52,9 +67,52 @@ def create_filename(citation):
     # Ok… Let's just remove anything non alphanumerical which is a bit
     # annoying for people with special characters in their name but will save
     # us some trouble later on.
-    authors = ["".join(filter(str.isalnum, a)) for a in authors]
-    filename = citation["year"] + "-" + "_".join(authors) + ".md"
+    authors = [remove_accents(a) for a in authors]
+    try:
+        month = citation["month"]
+    except KeyError:
+        warning = (
+            "Citation '%s' is missing information about month" %
+            citation["title"])
+        warnings.warn(warning)
+        month = "none"
+        pass
+
+    filename = (
+        citation["year"] +
+        convert_month(month) + "-" + "_".join(authors) + ".md")
     return filename
+
+
+def convert_month(month):
+    months = {
+        "none": "00",
+        "jan": "01",
+        "january": "01",
+        "feb": "02",
+        "february": "02",
+        "mar": "03",
+        "march": "03",
+        "apr": "04",
+        "april": "04",
+        "may": "05",
+        "jun": "06",
+        "june": "06",
+        "jul": "07",
+        "july": "07",
+        "aug": "08",
+        "august": "08",
+        "sep": "09",
+        "september": "09",
+        "oct": "10",
+        "october": "10",
+        "nov": "11",
+        "november": "11",
+        "dec": "12",
+        "december": "12",
+        "december": "12",
+        }
+    return months[month.lower()]
 
 
 def format_citation(citation, max_authors=4):
@@ -69,11 +127,6 @@ def format_citation(citation, max_authors=4):
         journal = citation["journal"] + ","
     except KeyError:
         journal = ""
-
-    try:
-        url = citation["url"]
-    except KeyError:
-        url = ""
 
     try:
         month = citation["month"].capitalize() + " "
@@ -102,6 +155,13 @@ except OSError:
     pass
 
 for citation in bib_database.entries:
+    # Filter based on author if necessary
+    if filter_author is not None:
+        if filter_author not in citation["author"]:
+            print("Ignoring '%s', '%s'" % (
+                citation["title"], citation["author"]))
+            continue
+
     # Clean up title name
 
     citation["title"] = citation["title"].replace("{", "").replace("}", "")
@@ -117,10 +177,8 @@ for citation in bib_database.entries:
     except KeyError:
         url = ""
 
-
-
     # create the filename
-    filename = create_filename(citation).lower() 
+    filename = create_filename(citation).lower()
     formatted_citation = format_citation(citation)
     print(filename)
     md = "---\n"
@@ -135,3 +193,4 @@ for citation in bib_database.entries:
 
     with open(os.path.join(output_dir, filename), "w") as f:
         f.write(md)
+    print("")

@@ -53,4 +53,12 @@ githuburl: 'https://tree-timc.github.io/circhic/'
 ```
 
 and the two icons for Open Access papers and github URL will be displayed
-properly.
+properly. Note that no check is currently done on what this `note` entry
+contains. It could possible cause problems.
+
+To only export the publications associated to one authors, use the following
+command:
+
+```python
+python convert_bibtex_to_md.py test-data.bib results -f Varoquaux,\ Nelle
+```
