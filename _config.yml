@@ -224,6 +224,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  peoples:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Default YAML values (more information on Jekyll's site)

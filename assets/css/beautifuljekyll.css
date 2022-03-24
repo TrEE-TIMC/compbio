@@ -1168,3 +1168,63 @@ article a:hover {
 .pub-content p {
     margin-top: 0
 }
+
+.people {
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.people-picture {
+    float: left;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    z-index: 0;
+}
+
+.people-picture::after {
+    bottom: -100px;
+    position: absolute;
+    content: '';
+}
+
+.people-picture img {
+    -webkit-filter: grayscale(75%) brightness(1.15);
+    -moz-filter: grayscale(75%) brightness(1.15);
+    filter: grayscale(75%) brightness(1.15);
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.people-content {
+    margin-left: 125px;
+    margin-right: 5px;
+    padding-top: 0px;
+}
+
+.people-content p {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.people-content::before, .people-content::after {
+    content: "";
+    display: table;
+}
+
+.people-name {
+    font-weight: bold;
+    font-size: 110%;
+}
