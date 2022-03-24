@@ -2,6 +2,7 @@
 title: "Ivan Junier"
 name: "Ivan Junier"
 collection: peoples
+image: ivan.jpg
 permalink: /people/ivan_junier
 position: "Permanent researcher"
 github: "https://github.com/ijunier"

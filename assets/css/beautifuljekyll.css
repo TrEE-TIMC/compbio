@@ -1217,6 +1217,7 @@ article a:hover {
 .people-content p {
     padding-top: 0px;
     margin-top: 0px;
+    text-align: justify;
 }
 
 .people-content::before, .people-content::after {
@@ -1227,4 +1228,12 @@ article a:hover {
 .people-name {
     font-weight: bold;
     font-size: 110%;
+}
+
+.people-content a i {
+    color: #404040;
+}
+
+.people-content a:hover i {
+    color: #52adc8;
 }
