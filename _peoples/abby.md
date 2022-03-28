@@ -12,7 +12,7 @@ osf: "https://osf.io/duxyk/"
 twitter: "https://twitter.com/sabby_oniric"
 ---
 
-**Sophie Abby** received a bi-disciplinary education in biology and
+**[Sophie Abby](https://www.timc.fr/en/sophie-abby)** received a bi-disciplinary education in biology and
 computational sciences. She is an evolutionary biologist, particularly
 interested in the mechanisms of diversification of prokaryotes (archaea and
 bacteria). She studies these at different scales: from enzymes, to macromolecular
