@@ -16,4 +16,5 @@ A **[Postdoc in Evolutionary
 investigate phylogenomics  approaches  and co-evolution methods
 to  tackle  the  problem  of  the  emergence  and  evolution  of enzymes'
 functions. 
-Informat inqueries are welcome, and you can also directly apply **[here](https://bit.ly/3AKOKi8)**. 
+For more details, informal inqueries are welcome.
+<!--- #, and you can also directly apply **[here](https://bit.ly/3AKOKi8)**. --->
