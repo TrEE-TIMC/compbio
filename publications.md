@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Publications
-subtitle: More about us…
 ---
 
  
-**Bold** indicates members of the team. Asterisk indicates dual first-author
-position. Open access articles or preprints <nobr>(<i class="ai ai-fw
+Open access articles or preprints <nobr>(<i class="ai ai-fw
 ai-open-access-square"></i>)</nobr> are linked below. Supplementary materials
 on GitHub <nobr>(<i class="fa fa-github" aria-hidden="true"></i>)</nobr> and
 OSF <nobr>(<i class="ai ai-fw ai-osf"></i>)</nobr> for each publication are
