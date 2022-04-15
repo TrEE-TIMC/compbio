@@ -33,8 +33,8 @@ def remove_accents(input_str):
 
 
 def get_authors(citation, format="only_last_name"):
-    authors = citation["author"].split(" and ")
-    authors = [a.split(", ") for a in authors]
+    authors = citation["author"].replace("\n", " ").split(" and ")
+    authors = [a.strip().split(", ") for a in authors]
 
     if format == "only_last_name":
         authors = [a[0] for a in authors]
@@ -56,7 +56,7 @@ def create_initials(author):
     initialized_first_name = []
     for first_name in first_names:
         initialized_first_name.append(
-            "-".join([s[0] + "." for s in first_name.split("-")]))
+            "-".join([s[0].strip() + "." for s in first_name.split("-") if len(s)]))
     initialized_first_name = " ".join(initialized_first_name)
     author[1] = initialized_first_name
     return author
@@ -88,29 +88,41 @@ def convert_month(month):
     months = {
         "none": "00",
         "jan": "01",
+        "1": "01",
         "january": "01",
         "feb": "02",
         "february": "02",
+        "2": "02",
         "mar": "03",
         "march": "03",
+        "3": "03",
         "apr": "04",
         "april": "04",
+        "4": "04",
         "may": "05",
+        "5": "05",
         "jun": "06",
         "june": "06",
+        "6": "06",
         "jul": "07",
         "july": "07",
+        "7": "07",
         "aug": "08",
         "august": "08",
+        "8": "08",
         "sep": "09",
         "september": "09",
+        "9": "09",
         "oct": "10",
         "october": "10",
+        "10": "10",
         "nov": "11",
         "november": "11",
+        "11": "11",
         "dec": "12",
         "december": "12",
         "december": "12",
+        "12": "12",
         }
     return months[month.lower()]
 
