@@ -11,10 +11,5 @@ internships, PhD thesis, and postdoc fellowships.
 
 ## Position offers
 
-A **[Postdoc in Evolutionary
-  Genomics and Molecular Evolution](../files/PostDoc_EvolGenomics_Deepen.pdf)** is offered to
-investigate phylogenomics  approaches  and co-evolution methods
-to  tackle  the  problem  of  the  emergence  and  evolution  of enzymes'
-functions. 
-For more details, informal inqueries are welcome.
-<!--- #, and you can also directly apply **[here](https://bit.ly/3AKOKi8)**. --->
+We currently have no open positions at the moment. Feel free to contact us to
+discuss opportunities.
