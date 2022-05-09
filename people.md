@@ -26,6 +26,7 @@ subtitle: More about us…
 
 **Morgane Roger-Margueritat**  (M2 intern, supervised by Fabien Pierrel and Sophie Abby)
 
+**Duc-Anh Do** (L1 intern, supervised by Nelle Varoquaux and Sophie Abby)
 
 ## Alumni
 
