@@ -26,10 +26,13 @@ subtitle: More about us…
 
 **Morgane Roger-Margueritat**  (M2 intern, supervised by Fabien Pierrel and Sophie Abby)
 
-**Duc-Anh Do** (L1 intern, supervised by Nelle Varoquaux and Sophie Abby)
+**Benoit Sauret** (M2, intern, supervised by Nelle Varoquaux)
+
 
 ## Alumni
 
+
+Duc-Anh Do (2022, intern)
 Flora Gaudillière (2021, intern)  
 Renato Augusto Antoniassi Battistin (2021, intern)  
 Vu-Lam Dang (2021, intern)  
@@ -41,4 +44,4 @@ Clothilde Chenal (2018, intern)
 Brian Villette (2018, intern)  
 Judith Boldt (2016, intern)  
 Loic Duquennoy (2016, intern)  
-Thibaut lepage (2015-2017, postdoc)
+Thibaut Lepage (2015-2017, postdoc)
