@@ -30,13 +30,6 @@ subtitle: More about us…
 {% endfor %}
 
 
-**Sophie-Carole Chobert**
-
-**Lucas Étourneau**
-
-**Elham Ghobadpour**
-
-
 ## Interns
 
 **Morgane Roger-Margueritat**  (M2 intern, supervised by Fabien Pierrel and Sophie Abby)
