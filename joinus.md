@@ -11,7 +11,7 @@ internships, PhD thesis, and postdoc fellowships.
 
 ## Position offers
 
-Feel free to contact us to discuss opportunities.
+Feel free to contact us to discuss more opportunities.
 
 - [Master 2 internship - Deconvolution approaches & autoML for detecting
   systems in prokaryotic genomes](https://tree-timc.github.io/compbio/files/2022_M2_proposal_homolog_deconvolution.pdf)
