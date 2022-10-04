@@ -32,8 +32,6 @@ subtitle: More about us…
 
 ## Interns
 
-**Morgane Roger-Margueritat**  (M2 intern, supervised by Fabien Pierrel and Sophie Abby)
-
 **Benoit Sauret** (M2, intern, supervised by Nelle Varoquaux)
 
 
@@ -47,7 +45,7 @@ Vu-Lam Dang (2021, intern)
 William Schmitt (2021, PhD student)  
 Qiqi He (2020, intern)  
 Safa Berraies (2019, intern)  
-Morgane Roger-Margueritat (2019, intern)  
+Morgane Roger-Margueritat (2019&2022, intern)  
 Clothilde Chenal (2018, intern)  
 Brian Villette (2018, intern)  
 Judith Boldt (2016, intern)  
