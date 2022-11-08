@@ -1210,7 +1210,7 @@ article a:hover {
     height: 100px;
 }
 
-.people-picture:hover img {
+.people:hover .people-picture img {
     -webkit-filter: grayscale(0%) brightness(1.15);
     -moz-filter: grayscale(0%) brightness(1.15);
     filter: grayscale(0%) brightness(1.15);
