@@ -11,6 +11,7 @@ internships, PhD thesis, and postdoc fellowships.
 
 ## Position offers
 
+We have funding to recruit interns and PhD students over the next few years.
 Feel free to contact us to discuss more opportunities.
 
 - [Master 2 internship - Deconvolution approaches & autoML for detecting
