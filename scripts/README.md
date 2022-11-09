@@ -8,6 +8,8 @@ basis to create elements for this website.
 The script `convert_bibtex_to_md.py` takes as input a bibtex file and outputs
 in a directory a markdown file per publication formatted as required by our
 website.
+It solely requires the python package `bibtextparser`, which can be installed via anaconda with `conda install -c conda-forge bibtexparser`.
+You can then use this script as following:
 
 ```bash
 python convert_bibtex_to_md.py filename.bib results/
