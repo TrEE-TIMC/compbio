@@ -18,9 +18,10 @@ Feel free to contact us to discuss more opportunities.
   detecting systems in prokaryotic
   genomes](https://tree-timc.github.io/compbio/files/2022_M2_homologs_SS.pdf)
 
-  **bioinformatics, computer science, or maths profile** We are looing to
+  **bioinformatics, computer science, or maths profile** We are looking to
   develop unsupervised machine learning approaches to detect protein systems
   in prokaryotic genomes. (3 to 6 months).
 
 - [Master 2 internship - Investigating the origins of bacterial phototrophy with genomics data
     systems in prokaryotic genomes](https://tree-timc.github.io/compbio/files/2022_Sujet_M2_Abby-TIMC-Grenoble_PHOTOTROPHY.pdf)
+
