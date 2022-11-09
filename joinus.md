@@ -14,9 +14,9 @@ internships, PhD thesis, and postdoc fellowships.
 We have funding to recruit interns and PhD students over the next few years.
 Feel free to contact us to discuss more opportunities.
 
-- [Master 1/2 or equivalent internship - Deconvolution approaches & autoML for
+- [Master 1/2 or equivalent internship - Deconvolution approaches for
   detecting systems in prokaryotic
-  genomes](https://tree-timc.github.io/compbio/files/2022_M2_proposal_homolog_deconvolution.pdf)
+  genomes](https://tree-timc.github.io/compbio/files/2022_M2_homologs_SS.pdf)
 
   **bioinformatics, computer science, or maths profile** We are looing to
   develop unsupervised machine learning approaches to detect protein systems
