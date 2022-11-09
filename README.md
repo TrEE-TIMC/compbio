@@ -44,4 +44,4 @@ The template is the following:
 	---
 
 If you are lazy and would like to create these automatically, please follow
-instructions from [scripts/README](https://github.com/TrEE-TIMC/compbio/blob/gh-pages/scripts/README)
+instructions from [scripts/README.md](https://github.com/TrEE-TIMC/compbio/blob/gh-pages/scripts/README.md)
