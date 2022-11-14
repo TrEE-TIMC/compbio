@@ -12,8 +12,8 @@ twitter: "https://twitter.com/sabby_oniric"
 ---
 
 **[Sophie Abby](https://www.timc.fr/en/sophie-abby)** received a bi-disciplinary education in biology and
-computational sciences. She is an evolutionary biologist, particularly
-interested in the mechanisms of diversification of prokaryotes (archaea and
-bacteria). She studies these at different scales: from enzymes, to macromolecular
-complexes, and genome dynamics with respect to environmental adaptations. She also develops
+computer sciences. She is an evolutionary biologist, particularly
+interested in the mechanisms of diversification of archaea and
+bacteria. She studies these at different scales: from enzymes and metabolic pathways, to macromolecular
+complexes and genome dynamics in response to environmental adaptations. She also develops
 methods in the field of comparative genomics and phylogenomics, in particular for genome annotation.  
