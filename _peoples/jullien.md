@@ -2,7 +2,7 @@
 title: "Margaux Jullien"
 name: "Margaux Jullien"
 collection: peoples
-image: margaux.jpg
+image: margaux.png
 permalink: /people/margaux_jullien
 position: "postdoc"
 github: "https://github.com/margauxjullien"
