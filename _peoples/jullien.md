@@ -11,5 +11,5 @@ orcid: "0000-0002-4381-3541"
 twitter: "https://twitter.com/JullienMargaux"
 ---
 
-**Margaux Jullien***Margaux Jullien** is a postdoctoral researcher using bioinformatics to study coevolution in proteins. She previously worked on plant population and quantitative genetics.
+**Margaux Jullien** is a postdoctoral researcher using bioinformatics to study coevolution in proteins. She previously worked on plant population and quantitative genetics.
 
