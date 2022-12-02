@@ -9,5 +9,4 @@ position: "phd_student"
 ---
 
 
-**Sophie-Carole Chobert** is a PhD student working on **the origins and diversification of respiratory quinone biosynthetic pathways** under the supervision of **[Sophie Abby](https://www.timc.fr/en/sophie-abby)** and **[Fabien Pierrel](https://www.timc.fr/en/fabien-pierrel)**.
-
+**Sophie-Carole Chobert** is a PhD candidate trained in bioinformatics. She is interested in the evolution of microorganisms and their adaptation to their environment. Her thesis focuses on a family of molecules with a key role in respiratory chains of most living organisms: the isoprenoid quinones. She aims at deciphering **the origins and diversification of their biosynthetic pathways**. She is supervised by **[Sophie Abby](https://www.timc.fr/en/sophie-abby)** and **[Fabien Pierrel](https://www.timc.fr/en/fabien-pierrel)**.
