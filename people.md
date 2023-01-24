@@ -32,12 +32,11 @@ subtitle: More about us…
 
 ## Interns
 
-**Benoit Sauret** (M2, intern, supervised by Nelle Varoquaux)
-
 
 ## Alumni
 
 
+Benoit Sauret (2022, intern) 
 Duc-Anh Do (2022, intern)   
 Flora Gaudillière (2021, intern)  
 Renato Augusto Antoniassi Battistin (2021, intern)  
