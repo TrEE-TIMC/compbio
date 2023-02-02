@@ -36,7 +36,7 @@ subtitle: More about us…
   Abby](https://www.timc.fr/en/sophie-abby) and [Nelle
   Varoquaux](https://nellev.github.io))
 - **Fatoumata Mangane** (M2 intern, supervised by [Sophie
-  Abby](https://www.timc.fr/en/sophie-abby))
+  Abby](https://www.timc.fr/en/sophie-abby) and Sophie-Carole Chobert.
 - **Abdoulaye Diouma Sow** (M2 intern, supervised by [Sophie
   Abby](https://www.timc.fr/en/sophie-abby) and [Nelle
   Varoquaux](nellev.github.io))
@@ -48,7 +48,7 @@ subtitle: More about us…
 ## Alumni
 
 
-Benoit Sauret (2022, intern) 
+Benoit Sauret (2022, intern)
 Duc-Anh Do (2022, intern)   
 Flora Gaudillière (2021, intern)  
 Renato Augusto Antoniassi Battistin (2021, intern)  
