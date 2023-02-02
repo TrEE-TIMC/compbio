@@ -32,6 +32,18 @@ subtitle: More about us…
 
 ## Interns
 
+- **Sophal Lear** (M2 intern, supervised by [Sophie
+  Abby](https://www.timc.fr/en/sophie-abby) and [Nelle
+  Varoquaux](https://nellev.github.io)
+- **Fatoumata Mangane** (M2 intern, supervised by [Sophie
+  Abby](https://www.timc.fr/en/sophie-abby)
+- **Abdoulaye Diouma Sow** (M2 intern, supervised by [Sophie
+  Abby](https://www.timc.fr/en/sophie-abby) and [Nelle
+  Varoquaux](nellev.github.io)
+- **Zakaria Touigui**  (M2 intern, supervised by [Antoine
+  Frenoy](https://perso.crans.org/frenoy/) and [Nelle
+  Varoquaux](https://nellev.github.io)
+
 
 ## Alumni
 
