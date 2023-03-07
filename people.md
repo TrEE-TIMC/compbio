@@ -48,8 +48,8 @@ subtitle: More about us…
 ## Alumni
 
 
-Benoit Sauret (2022, intern)	
-Duc-Anh Do (2022, intern)   
+Benoit Sauret (2022, intern) 	
+Duc-Anh Do (2022, intern)  
 Flora Gaudillière (2021, intern)  
 Renato Augusto Antoniassi Battistin (2021, intern)  
 Vu-Lam Dang (2021, intern)  
