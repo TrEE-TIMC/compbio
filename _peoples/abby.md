@@ -11,7 +11,7 @@ orcid: "https://orcid.org/0000-0002-5231-3346"
 twitter: "https://twitter.com/sabby_oniric"
 ---
 
-**[Sophie Abby](https://www.timc.fr/en/sophie-abby)** received a bi-disciplinary education in biology and
+**[Sophie Abby](https://sophieabby.github.io/)** received a bi-disciplinary education in biology and
 computer sciences. She is an evolutionary biologist, particularly
 interested in the mechanisms of diversification of archaea and
 bacteria. She studies these at different scales: from enzymes and metabolic pathways, to macromolecular
