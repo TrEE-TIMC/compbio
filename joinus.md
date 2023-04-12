@@ -11,7 +11,9 @@ internships, PhD thesis, and postdoc fellowships.
 
 ## Position offers
 
-While we currently have no opened positions, we have funding to recruit
-interns and PhD students over the next few years. Feel free to contact us to
-discuss more opportunities.
+We have funding to recruit interns and PhD students over the next few years.
+Feel free to contact us to discuss more opportunities.
 
+- [PhD in Data Science & computational
+  biology](https://tree-timc.github.io/compbio/files/2023_PhD_SIRIG.pdf):
+  Systematic study of inverted repeated sequences in prokaryotic genomes
