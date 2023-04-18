@@ -5,6 +5,7 @@ collection: peoples
 image: lucas.jpg
 permalink: /people/lucas_etourneau
 position: "phd_student"
+website: "https://lucas-et.github.io/"
 github: "https://github.com/Lucas-Et"
 googlescholar: "https://scholar.google.com/citations?user=t7YaoQYAAAAJ&hl=fr&oi=ao"
 orcid: "0000-0002-8670-808X"
