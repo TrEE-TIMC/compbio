@@ -44,13 +44,13 @@ subtitle: More about us…
   Frenoy](https://perso.crans.org/frenoy/) and [Nelle
   Varoquaux](https://nellev.github.io))
 - **Suraj Kanwar** (M1 intern, supervised by [Sophie
-  Abby](https://www.timc.fr/en/sophie-abby)
+  Abby](https://www.timc.fr/en/sophie-abby))
 
 
 ## Alumni
 
 
-Benoit Sauret (2022, intern) 	
+Benoit Sauret (2022, intern)  
 Duc-Anh Do (2022, intern)  
 Flora Gaudillière (2021, intern)  
 Renato Augusto Antoniassi Battistin (2021, intern)  
