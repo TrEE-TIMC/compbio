@@ -43,6 +43,8 @@ subtitle: More about us…
 - **Zakaria Touigui**  (M2 intern, supervised by [Antoine
   Frenoy](https://perso.crans.org/frenoy/) and [Nelle
   Varoquaux](https://nellev.github.io))
+- **Suraj Kanwar** (M1 intern, supervised by [Sophie
+  Abby](https://www.timc.fr/en/sophie-abby)
 
 
 ## Alumni
