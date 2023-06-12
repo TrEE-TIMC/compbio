@@ -33,19 +33,23 @@ subtitle: More about us…
 ## Interns
 
 - **Sophal Lear** (M2 intern, supervised by [Sophie
-  Abby](https://www.timc.fr/en/sophie-abby) and [Nelle
+  Abby](https://sophieabby.github.io/) and [Nelle
   Varoquaux](https://nellev.github.io))
 - **Fatoumata Mangane** (M2 intern, supervised by [Sophie
-  Abby](https://www.timc.fr/en/sophie-abby) and Sophie-Carole Chobert.
+  Abby](https://sophieabby.github.io/) and Sophie-Carole Chobert.
 - **Abdoulaye Diouma Sow** (M2 intern, supervised by [Sophie
-  Abby](https://www.timc.fr/en/sophie-abby) and [Nelle
+  Abby](https://sophieabby.github.io/) and [Nelle
   Varoquaux](nellev.github.io))
 - **Zakaria Tougui**  (M2 intern, supervised by [Antoine
   Frenoy](https://perso.crans.org/frenoy/) and [Nelle
   Varoquaux](https://nellev.github.io))
 - **Suraj Kanwar** (M1 intern, supervised by [Sophie
-  Abby](https://www.timc.fr/en/sophie-abby))
-
+  Abby](https://sophieabby.github.io/))
+- **Claudia Mulat** (L1 intern, supervised by [Sophie
+  Abby](https://sophieabby.github.io/))
+- **Mathilde Escleyne** (L2 intern, supervised by [Sophie
+  Abby](https://sophieabby.github.io/)) and [Fabien 
+  Pierrel](https://www.timc.fr/en/fabien-pierrel)
 
 ## Alumni
 
