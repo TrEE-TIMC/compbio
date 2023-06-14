@@ -48,11 +48,10 @@ subtitle: More about us…
 - **Claudia Mulat** (L1 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/))
 - **Mathilde Escleyne** (L2 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/)) and [Fabien 
+  Abby](https://sophieabby.github.io/) and [Fabien 
   Pierrel](https://www.timc.fr/en/fabien-pierrel)
 
 ## Alumni
-
 
 Benoit Sauret (2022, intern)  
 Duc-Anh Do (2022, intern)  
