@@ -43,8 +43,6 @@ subtitle: More about us…
 - **Zakaria Tougui**  (M2 intern, supervised by [Antoine
   Frenoy](https://perso.crans.org/frenoy/) and [Nelle
   Varoquaux](https://nellev.github.io))
-- **Suraj Kanwar** (M1 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/))
 - **Claudia Mulat** (L1 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/))
 - **Mathilde Escleyne** (L2 intern, supervised by [Sophie
@@ -53,6 +51,7 @@ subtitle: More about us…
 
 ## Alumni
 
+Suraj Kanwar (2023, intern)  
 Benoit Sauret (2022, intern)  
 Duc-Anh Do (2022, intern)  
 Flora Gaudillière (2021, intern)  
