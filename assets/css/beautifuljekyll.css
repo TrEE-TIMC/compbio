@@ -368,6 +368,9 @@ footer {
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: #EAEAEA;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   
 }
 
