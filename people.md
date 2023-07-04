@@ -47,7 +47,7 @@ subtitle: More about us…
   Abby](https://sophieabby.github.io/))
 - **Mathilde Escleyne** (L2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and [Fabien 
-  Pierrel](https://www.timc.fr/en/fabien-pierrel)
+  Pierrel](https://www.timc.fr/en/fabien-pierrel))
 
 ## Alumni
 
