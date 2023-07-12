@@ -48,6 +48,9 @@ subtitle: More about us…
 - **Mathilde Escleyne** (L2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and [Fabien 
   Pierrel](https://www.timc.fr/en/fabien-pierrel))
+- **Emma Bouvet** (M1 intern, supervised by [Sophie
+  Abby](https://sophieabby.github.io/), Margaux Jullien 
+  and Ludovic Pelosi)
 
 ## Alumni
 
