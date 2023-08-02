@@ -47,9 +47,9 @@ subtitle: More about us…
 
 ## Alumni
 
-Claudia Mulat (2023, L1 intern)
-Mathilde Escleyne (2023, L2 intern)
-Fatoumata Mangane (2023, M2 intern)
+Claudia Mulat (2023, L1 intern)  
+Mathilde Escleyne (2023, L2 intern)  
+Fatoumata Mangane (2023, M2 intern)  
 Suraj Kanwar (2023, M1 intern)  
 Benoit Sauret (2022, M2 intern)  
 Duc-Anh Do (2022, intern)  
