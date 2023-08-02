@@ -35,36 +35,32 @@ subtitle: More about us…
 - **Sophal Lear** (M2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and [Nelle
   Varoquaux](https://nellev.github.io))
-- **Fatoumata Mangane** (M2 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/) and Sophie-Carole Chobert.
 - **Abdoulaye Diouma Sow** (M2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and [Nelle
   Varoquaux](nellev.github.io))
 - **Zakaria Tougui**  (M2 intern, supervised by [Antoine
   Frenoy](https://perso.crans.org/frenoy/) and [Nelle
   Varoquaux](https://nellev.github.io))
-- **Claudia Mulat** (L1 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/))
-- **Mathilde Escleyne** (L2 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/) and [Fabien 
-  Pierrel](https://www.timc.fr/en/fabien-pierrel))
 - **Emma Bouvet** (M1 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/), Margaux Jullien 
   and Ludovic Pelosi)
 
 ## Alumni
 
-Suraj Kanwar (2023, intern)  
-Benoit Sauret (2022, intern)  
+Claudia Mulat (2023, L1 intern)
+Mathilde Escleyne (2023, L2 intern)
+Fatoumata Mangane (2023, M2 intern)
+Suraj Kanwar (2023, M1 intern)  
+Benoit Sauret (2022, M2 intern)  
 Duc-Anh Do (2022, intern)  
 Flora Gaudillière (2021, intern)  
-Renato Augusto Antoniassi Battistin (2021, intern)  
+Renato Augusto Antoniassi Battistin (2021, M1 intern)  
 Vu-Lam Dang (2021, intern)  
 William Schmitt (2021, PhD student)  
-Qiqi He (2020, intern)  
-Safa Berraies (2019, intern)  
-Morgane Roger-Margueritat (2019&2022, intern)  
-Clothilde Chenal (2018, intern)  
+Qiqi He (2020, M2 intern)  
+Safa Berraies (2019, M2 intern)  
+Morgane Roger-Margueritat (2019&2022, L3&M2 intern)  
+Clothilde Chenal (2018, L3 intern)  
 Brian Villette (2018, intern)  
 Judith Boldt (2016, intern)  
 Loic Duquennoy (2016, intern)  
