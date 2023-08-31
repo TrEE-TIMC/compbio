@@ -32,12 +32,6 @@ subtitle: More about us…
 
 ## Interns
 
-- **Sophal Lear** (M2 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/) and [Nelle
-  Varoquaux](https://nellev.github.io))
-- **Abdoulaye Diouma Sow** (M2 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/) and [Nelle
-  Varoquaux](nellev.github.io))
 - **Zakaria Tougui**  (M2 intern, supervised by [Antoine
   Frenoy](https://perso.crans.org/frenoy/) and [Nelle
   Varoquaux](https://nellev.github.io))
@@ -47,6 +41,8 @@ subtitle: More about us…
 
 ## Alumni
 
+Abdoulaye Diouma Sow (2023, M2 intern)  
+Sophal Thear (2023, M2 intern)  
 Claudia Mulat (2023, L1 intern)  
 Mathilde Escleyne (2023, L2 intern)  
 Fatoumata Mangane (2023, M2 intern)  
