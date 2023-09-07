@@ -1103,7 +1103,6 @@ article a {
 }
 
 article a:hover {
-    color: #52adc8;
     text-decoration: none;
 }
 
@@ -1244,7 +1243,7 @@ article a:hover {
 }
 
 .people-content a:hover i {
-    color: #52adc8;
+    color: #4ab38d;
 }
 
 .two-columns > ul {
