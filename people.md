@@ -32,15 +32,14 @@ subtitle: More about us…
 
 ## Interns
 
-- **Zakaria Tougui**  (M2 intern, supervised by [Antoine
-  Frenoy](https://perso.crans.org/frenoy/) and [Nelle
-  Varoquaux](https://nellev.github.io))
 - **Emma Bouvet** (M1 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/), Margaux Jullien 
   and Ludovic Pelosi)
 
 ## Alumni
 
+Zakaria Tougui (2023, M2 intern)  
+Emma Bouvet (2023, M1 intern)  
 Abdoulaye Diouma Sow (2023, M2 intern)  
 Sophal Thear (2023, M2 intern)  
 Claudia Mulat (2023, L1 intern)  
