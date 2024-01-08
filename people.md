@@ -32,9 +32,8 @@ subtitle: More about us…
 
 ## Interns
 
-- **Emma Bouvet** (M1 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/), Margaux Jullien 
-  and Ludovic Pelosi)
+- **Emma Bouvet** (M2 intern, supervised by [Sophie
+  Abby](https://sophieabby.github.io/) and Ludovic Pelosi)
 
 ## Alumni
 
