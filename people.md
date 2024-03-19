@@ -34,6 +34,8 @@ subtitle: More about us…
 
 - **Emma Bouvet** (M2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and Ludovic Pelosi)
+- **Timothée Salzat-Hervouette** (M2 intern, supervised by [Sophie
+  Abby](https://sophieabby.github.io/) and Fabien Pierrel)
 
 ## Alumni
 
