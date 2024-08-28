@@ -4,7 +4,7 @@ name: "Marion Chauveau"
 collection: peoples
 permalink: /people/marion_chauveau
 image: Photo_CHAUVEAU.jpg
-github: "https://github.com/Rionma8"
+github: "https://github.com/marionchv"
 position: "phd_student"
 ---
 
