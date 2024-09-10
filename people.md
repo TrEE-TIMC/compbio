@@ -39,7 +39,8 @@ subtitle: More about us…
 
 ## Alumni
 
-Lucas Etourneau (2021-2024, PhD studend)
+Marija Petrovic (2024, L2 internet)  
+Lucas Etourneau (2021-2024, PhD studend)  
 Zakaria Tougui (2023, M2 intern)  
 Emma Bouvet (2023, M1 intern)  
 Abdoulaye Diouma Sow (2023, M2 intern)  
