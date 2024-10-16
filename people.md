@@ -32,15 +32,14 @@ subtitle: More about us…
 
 ## Interns
 
-- **Emma Bouvet** (M2 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/) and Ludovic Pelosi)
 - **Timothée Salzat-Hervouette** (M2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and Fabien Pierrel)
 
 ## Alumni
 
-Marija Petrovic (2024, L2 internet)  
-Lucas Etourneau (2021-2024, PhD studend)  
+Emma Bouvet (2024, M2 intern)
+Marija Petrovic (2024, L2 intern)  
+Lucas Etourneau (2021-2024, PhD student)  
 Zakaria Tougui (2023, M2 intern)  
 Emma Bouvet (2023, M1 intern)  
 Abdoulaye Diouma Sow (2023, M2 intern)  
