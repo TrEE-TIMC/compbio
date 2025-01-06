@@ -32,11 +32,14 @@ subtitle: More about us…
 
 ## Interns
 
-- **Timothée Salzat-Hervouette** (M2 intern, supervised by [Sophie
+- **Hugo Mutschler** (M2 intern, supervised by [Sophie
+  Abby](https://sophieabby.github.io/) and Fabien Pierrel)
+- **Arthur Revillet** (M2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and Fabien Pierrel)
 
 ## Alumni
 
+Timothée Salzat-Hervouette (2024, M2 intern)  
 Emma Bouvet (2024, M2 intern)  
 Marija Petrovic (2024, L2 intern)  
 Lucas Etourneau (2021-2024, PhD student)  
