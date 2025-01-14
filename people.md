@@ -34,7 +34,7 @@ subtitle: More about us…
 
 - **Hugo Mutschler** (M2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and Fabien Pierrel)
-- **Arthur Revillet** (M2 intern, supervised by [Sophie
+- **Arthur Réveillard** (M2 intern, supervised by [Sophie
   Abby](https://sophieabby.github.io/) and Fabien Pierrel)
 
 ## Alumni
