@@ -32,16 +32,17 @@ subtitle: More about us…
 
 ## Interns
 
-- **Hugo Mutschler** (M2 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/) and Fabien Pierrel)
-- **Arthur Réveillard** (M2 intern, supervised by [Sophie
-  Abby](https://sophieabby.github.io/) and Fabien Pierrel)
+No interns are currently in the lab!
 
 ## Alumni
 
+Léa Caruana De Reymonth (2025, M1 intern)  
+Arthur Réveillard (2025, M2 intern)  
+Hugo Mutschler (2025, M2 intern)  
 Timothée Salzat-Hervouette (2024, M2 intern)  
 Emma Bouvet (2024, M2 intern)  
 Marija Petrovic (2024, L2 intern)  
+Elham Ghobadpour (2020-2024, PhD student/postdoc)  
 Lucas Etourneau (2021-2024, PhD student)  
 Zakaria Tougui (2023, M2 intern)  
 Emma Bouvet (2023, M1 intern)  
