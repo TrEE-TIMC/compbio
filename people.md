@@ -36,6 +36,7 @@ No interns are currently in the lab!
 
 ## Alumni
 
+Sophie-Carole Chobert (2021-2025, M2 internet, PhD Student) 
 Léa Caruana De Reymonth (2025, M1 intern)  
 Arthur Réveillard (2025, M2 intern)  
 Hugo Mutschler (2025, M2 intern)  
