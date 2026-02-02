@@ -4,39 +4,29 @@ title: People
 subtitle: More about us…
 ---
 
-## Permanent staff
-
 {% for post in site.peoples %}
     {% if post.position == "Permanent researcher" %}
         {% include archive-people.html %}
     {% endif %}
 {% endfor %}
 
-## Postdoctoral researcher
-
 {% for post in site.peoples %}
-    {% if post.position == "postdoc" %}
+    {% if post.position != "Permanent researcher" %}
         {% include archive-people.html %}
     {% endif %}
 {% endfor %}
 
-
-## PhD students
-
-{% for post in site.peoples %}
-    {% if post.position == "phd_student" %}
-        {% include archive-people.html %}
-    {% endif %}
-{% endfor %}
 
 
 ## Interns
 
-No interns are currently in the lab!
+- Marina Callandret
 
 ## Alumni
 
-Sophie-Carole Chobert (2021-2025, M2 internet, PhD Student) 
+Margaux Jullien (2023-2026, postdoc)   
+Marion Chauveau (2022-2026, PhD student/postdoc)   
+Sophie-Carole Chobert (2021-2025, M2 internet, PhD Student)   
 Léa Caruana De Reymonth (2025, M1 intern)  
 Arthur Réveillard (2025, M2 intern)  
 Hugo Mutschler (2025, M2 intern)  
