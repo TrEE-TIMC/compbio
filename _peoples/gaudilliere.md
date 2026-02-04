@@ -6,8 +6,8 @@ image: photo_flora_update.JPG
 permalink: /people/flora_gaudilliere
 website: "https://fgaudilliere.github.io/"
 github: "https://github.com/fgaudilliere"
-position: "phd_student"
-twitter: "https://twitter.com/f_gaudilliere"
+position: "assistant_professor"
+
 ---
 
 
