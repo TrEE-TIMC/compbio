@@ -2,7 +2,7 @@
 title: "Flora Gaudillière"
 name: "Flora Gaudillière"
 collection: peoples
-image: photo_Flora.JPG
+image: photo_flora_update.JPG
 permalink: /people/flora_gaudilliere
 website: "https://fgaudilliere.github.io/"
 github: "https://github.com/fgaudilliere"
@@ -12,4 +12,4 @@ twitter: "https://twitter.com/f_gaudilliere"
 
 
 
-**[Flora Gaudillière](https://www.timc.fr/en/flora-gaudilliere)** is a PhD student working on the role of **insertion sequences** in the **evolution and adaptation of prokaryotic genomes**. She combines bioinformatic approaches with wet lab experiments. She is supervised by **[Ivan Junier](https://www.timc.fr/en/ivan-junier)** and **[Thomas Hindré](https://www.timc.fr/en/thomas-hindre)**.
+**[Flora Gaudillière](https://www.timc.fr/en/flora-gaudilliere)** is an assistant professor working on the evolutionary dynamics of **insertion sequences**, a type of autonomous mobile DNA sequences found in most prokaryotic genomes. She combines bioinformatic approaches with wet lab experiments. She is interested in **genome ecology**: can we apply concepts and tools developed in the field of ecology to understand the dynamics of mobile genetic elements, understood as individuals populating a genomic ecosystem?
