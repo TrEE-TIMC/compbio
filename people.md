@@ -20,7 +20,7 @@ subtitle: More about us…
 
 ## Interns
 
-- Marina Callandret
+- Marina Callendret (Master level)
 
 ## Alumni
 
