@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Secretion systems
-subtitle: Visualization and statistical learning
+title: Élément génétique mobile
+subtitle: Création d'une base de données à partir d'automatisation d'une annotation experte
 ---
-
-
-# Création d’une base de données d'éléments génétiques mobiles à partir de l’automatisation d’une annotation experte 
 
 L’automatisation et la systématisation des annotations expertes sont des enjeux cruciaux dans de nombreux domaines scientifiques. En bioinformatique, un problème classique concerne l’annotation des gènes, nécessaire aussi bien pour caractériser les organismes que pour en étudier les propriétés évolutives. 
 
