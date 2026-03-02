@@ -13,3 +13,6 @@ internships, PhD thesis, and postdoc fellowships.
 
 We have fundings to recruit interns and PhD students over the next few years.
 Feel free to contact us to discuss more opportunities.
+
+At the moment, we propose: 
+- a 2-year post-doctoral position on the evolution of bacterial metabolism, in link with quinone diversification (soon to be advertised).
