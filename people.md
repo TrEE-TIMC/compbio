@@ -21,6 +21,7 @@ subtitle: More about us…
 ## Interns
 
 - Marina Callendret (Master level)
+- Théo Leterrier (Master level)
 
 ## Alumni
 
