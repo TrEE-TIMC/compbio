@@ -15,4 +15,4 @@ We have fundings to recruit interns and PhD students over the next few years.
 Feel free to contact us to discuss more opportunities.
 
 At the moment, we propose: 
-- a [2-year post-doctoral position](files/2026_Post-Doc_TolQuin.pdf) on the evolution of bacterial metabolism, in link with quinone diversification (open till filled).
+- a [2-year post-doctoral position](../files/2026_Post-Doc_TolQuin.pdf) on the evolution of bacterial metabolism, in link with quinone diversification (open till filled).
