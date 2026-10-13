@@ -15,4 +15,4 @@ Hi-C data and integration of genomic data.
 
 [HiC-pro](https://nservant.github.io/HiC-Pro/) to handle Hi-C data. 
 
-
+[COCOA-Tree](https://tree-timc.github.io/cocoatree/), a "COllaborative COevolution Analysis Toolbox including tree-based vizualisation to study the co-evolution of proteins. 
