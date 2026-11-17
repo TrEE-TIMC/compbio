@@ -20,11 +20,10 @@ subtitle: More about us…
 
 ## Interns
 
-- Marina Callendret (Master level)
-- Théo Leterrier (Master level)
-
 ## Alumni
 
+Marina Callendret (2026, Master level)
+Théo Leterrier (2026, Master level)
 Margaux Jullien (2023-2026, postdoc)   
 Marion Chauveau (2022-2026, PhD student/postdoc)   
 Sophie-Carole Chobert (2021-2025, M2 internet, PhD Student)   
