@@ -22,12 +22,12 @@ subtitle: More about us…
 
 ## Alumni
 
-Morgane Roger-Margueritat (2019&2022: L3&M2 intern, 2022-2026: PhD student/postdoc)
-Flora Gaudillière (2021: M1 intern, 2022-2026: PhD student/postdoc)
-Zakaria Tougui (2023: M2 intern, 2023-2026: PhD student)
-Gabin Laurent (2022-2026: postdoc)
-Marina Callendret (2026, Master-level intern)
-Théo Leterrier (2026, Master-level intern)
+Morgane Roger-Margueritat (2019&2022: L3&M2 intern, 2022-2026: PhD student/postdoc)   
+Flora Gaudillière (2021: M1 intern, 2022-2026: PhD student/postdoc)   
+Zakaria Tougui (2023: M2 intern, 2023-2026: PhD student)   
+Gabin Laurent (2022-2026: postdoc)   
+Marina Callendret (2026, Master-level intern)   
+Théo Leterrier (2026, Master-level intern)   
 Margaux Jullien (2023-2026, postdoc)   
 Marion Chauveau (2022-2026, PhD student/postdoc)   
 Sophie-Carole Chobert (2021-2025, M2 internet, PhD Student)   
